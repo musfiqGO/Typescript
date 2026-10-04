@@ -1,8 +1,7 @@
-console.log("Hello, TypeScript!");   
-
+"use strict";
+console.log("Hello, TypeScript!");
 const country = "USA";
 console.log(country);
-
 console.log("This is a TypeScript project with the following settings:");
 console.log("TypeScript version: 6.0.3");
 console.log("TypeScript module system: NodeNext");
@@ -23,3 +22,5 @@ console.log("The 'tsconfig.json' file is essential for configuring the TypeScrip
 console.log("Make sure to run 'tsc' to compile the TypeScript files and generate the corresponding JavaScript files in the 'output' directory.");
 console.log("You can also use 'tsc --watch' to automatically recompile the TypeScript files whenever changes are made.");
 console.log("Happy coding with TypeScript!");
+console.log("Moved all the files and in the terminal changed the directory to Lesson1 and then ran the command 'tsc' to compile the TypeScript files.");
+//# sourceMappingURL=script.js.map
